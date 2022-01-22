@@ -14,4 +14,4 @@ git clone https://github.com/Mafia-XD/MANDA27
 pip2 install bs4 
 cd MANDA27 
 git pull 
-python2 MANDA27.py
+python2 manda27.py
